@@ -1,0 +1,212 @@
+[
+    {
+        "title": "Auto Boss Mostaganem",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+        "review_rating": 4.5,
+        "latitude": 35.914125,
+        "longitude": 0.061822199999999994
+    },
+    {
+        "title": "Car Care Mostaganem",
+        "description": "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium.",
+        "review_rating": 4.0,
+        "latitude": 35.9143,
+        "longitude": 0.0619
+    },
+    {
+        "title": "Speedy Auto Repair",
+        "description": "At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores.",
+        "review_rating": 4.2,
+        "latitude": 35.9142,
+        "longitude": 0.0618
+    },
+    {
+        "title": "Car Clinic Mostaganem",
+        "description": "Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam.",
+        "review_rating": 4.8,
+        "latitude": 35.9141,
+        "longitude": 0.0617
+    },
+    {
+        "title": "Reliable Auto Service",
+        "description": "Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur.",
+        "review_rating": 4.3,
+        "latitude": 35.9140,
+        "longitude": 0.0616
+    },
+    {
+        "title": "Total Car Care",
+        "description": "Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+        "review_rating": 4.7,
+        "latitude": 35.9139,
+        "longitude": 0.0615
+    },
+    {
+        "title": "Express Auto Service",
+        "description": "Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.",
+        "review_rating": 4.5,
+        "latitude": 35.9140,
+        "longitude": 0.0617
+    },
+    {
+        "title": "City Auto Clinic",
+        "description": "Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt.",
+        "review_rating": 4.6,
+        "latitude": 35.9141,
+        "longitude": 0.0618
+    },
+    {
+        "title": "Quick Fix Auto Center",
+        "description": "Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit.",
+        "review_rating": 4.2,
+        "latitude": 35.9142,
+        "longitude": 0.0619
+    },
+    {
+        "title": "All Star Auto Repair",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+        "review_rating": 4.4,
+        "latitude": 35.9143,
+        "longitude": 0.0620
+    },
+    {
+        "title": "Golden Wrench Auto Service",
+        "description": "Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur?",
+        "review_rating": 4.8,
+        "latitude": 35.9144,
+        "longitude": 0.0621
+    },
+    {
+        "title": "Superior Auto Repair",
+        "description": "Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.",
+        "review_rating": 4.3,
+        "latitude": 35.9145,
+        "longitude": 0.0622
+    },
+    {
+        "title": "Precision Auto Care",
+        "description": "Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+        "review_rating": 4.7,
+        "latitude": 35.9146,
+        "longitude": 0.0623
+    },
+    {
+        "title": "Mile High Auto Service",
+        "description": "Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt.",
+        "review_rating": 4.6,
+        "latitude": 35.9147,
+        "longitude": 0.0624
+    },
+    {
+        "title": "Eagle Eye Auto Repair",
+        "description": "Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit.",
+        "review_rating": 4.2,
+        "latitude": 35.9148,
+        "longitude": 0.0625
+    },
+    {
+        "title": "Fast Lane Auto Center",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+        "review_rating": 4.4,
+        "latitude": 35.9149,
+        "longitude": 0.0626
+    },
+    {
+        "title": "Sunrise Auto Repair",
+        "description": "Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur?",
+        "review_rating": 4.8,
+        "latitude": 35.9150,
+        "longitude": 0.0627
+    },
+    {
+        "title": "Premium Auto Service",
+        "description": "Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.",
+        "review_rating": 4.3,
+        "latitude": 35.9151,
+        "longitude": 0.0628
+    },
+    {
+        "title": "Master Mechanics",
+        "description": "Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+        "review_rating": 4.7,
+        "latitude": 35.9152,
+        "longitude": 0.0629
+    },
+    {
+        "title": "Elite Auto Repair",
+        "description": "Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt.",
+        "review_rating": 4.6,
+        "latitude": 35.9153,
+        "longitude": 0.0630
+    },
+    {
+        "title": "Road Runner Auto Shop",
+        "description": "Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit.",
+        "review_rating": 4.2,
+        "latitude": 35.9154,
+        "longitude": 0.0631
+    },
+    {
+        "title": "Golden Wrench Auto Center",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+        "review_rating": 4.4,
+        "latitude": 35.9155,
+        "longitude": 0.0632
+    },
+    {
+        "title": "Precision Auto Shop",
+        "description": "Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur?",
+        "review_rating": 4.8,
+        "latitude": 35.9156,
+        "longitude": 0.0633
+    },
+    {
+        "title": "Mile High Auto Center",
+        "description": "Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.",
+        "review_rating": 4.3,
+        "latitude": 35.9157,
+        "longitude": 0.0634
+    },
+    {
+        "title": "Eagle Eye Auto Shop",
+        "description": "Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+        "review_rating": 4.7,
+        "latitude": 35.9158,
+        "longitude": 0.0635
+    },
+    {
+        "title": "Fast Lane Auto Center",
+        "description": "Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt.",
+        "review_rating": 4.6,
+        "latitude": 35.9159,
+        "longitude": 0.0636
+    },
+    {
+        "title": "Sunrise Auto Shop",
+        "description": "Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit.",
+        "review_rating": 4.2,
+        "latitude": 35.9160,
+        "longitude": 0.0637
+    },
+    {
+        "title": "Premium Auto Center",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+        "review_rating": 4.4,
+        "latitude": 35.9161,
+        "longitude": 0.0638
+    },
+    {
+        "title": "Master Mechanics",
+        "description": "Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur?",
+        "review_rating": 4.8,
+        "latitude": 35.9162,
+        "longitude": 0.0639
+    },
+    {
+        "title": "Elite Auto Center",
+        "description": "Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.",
+        "review_rating": 4.3,
+        "latitude": 35.9163,
+        "longitude": 0.0640
+    }
+]
