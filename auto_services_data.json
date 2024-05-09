@@ -4,209 +4,269 @@
         "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
         "review_rating": 4.5,
         "latitude": 35.914125,
-        "longitude": 0.061822199999999994
+        "longitude": 0.061822199999999994,
+        "price_per_kilometre": 0.1,
+        "contact": "0776464646"
     },
     {
         "title": "Car Care Mostaganem",
         "description": "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium.",
         "review_rating": 4.0,
         "latitude": 35.9143,
-        "longitude": 0.0619
+        "longitude": 0.0619,
+        "price_per_kilometre": 0.1,
+        "contact": "0776464646"
     },
     {
         "title": "Speedy Auto Repair",
         "description": "At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores.",
         "review_rating": 4.2,
         "latitude": 35.9142,
-        "longitude": 0.0618
+        "longitude": 0.0618,
+        "price_per_kilometre": 0.1,
+        "contact": "0776464646"
     },
     {
         "title": "Car Clinic Mostaganem",
         "description": "Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam.",
         "review_rating": 4.8,
         "latitude": 35.9141,
-        "longitude": 0.0617
+        "longitude": 0.0617,
+        "price_per_kilometre": 0.1,
+        "contact": "0776464646"
     },
     {
         "title": "Reliable Auto Service",
         "description": "Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur.",
         "review_rating": 4.3,
         "latitude": 35.9140,
-        "longitude": 0.0616
+        "longitude": 0.0616,
+        "price_per_kilometre": 0.1,
+        "contact": "0776464646"
     },
     {
         "title": "Total Car Care",
         "description": "Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
         "review_rating": 4.7,
         "latitude": 35.9139,
-        "longitude": 0.0615
+        "longitude": 0.0615,
+        "price_per_kilometre": 0.1,
+        "contact": "0776464646"
     },
     {
         "title": "Express Auto Service",
         "description": "Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.",
         "review_rating": 4.5,
         "latitude": 35.9140,
-        "longitude": 0.0617
+        "longitude": 0.0617,
+        "price_per_kilometre": 0.1,
+        "contact": "0776464646"
     },
     {
         "title": "City Auto Clinic",
         "description": "Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt.",
         "review_rating": 4.6,
         "latitude": 35.9141,
-        "longitude": 0.0618
+        "longitude": 0.0618,
+        "price_per_kilometre": 0.1,
+        "contact": "0776464646"
     },
     {
         "title": "Quick Fix Auto Center",
         "description": "Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit.",
         "review_rating": 4.2,
         "latitude": 35.9142,
-        "longitude": 0.0619
+        "longitude": 0.0619,
+        "price_per_kilometre": 0.1,
+        "contact": "0776464646"
     },
     {
         "title": "All Star Auto Repair",
         "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
         "review_rating": 4.4,
         "latitude": 35.9143,
-        "longitude": 0.0620
+        "longitude": 0.0620,
+        "price_per_kilometre": 0.1,
+        "contact": "0776464646"
     },
     {
         "title": "Golden Wrench Auto Service",
         "description": "Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur?",
         "review_rating": 4.8,
         "latitude": 35.9144,
-        "longitude": 0.0621
+        "longitude": 0.0621,
+        "price_per_kilometre": 0.1,
+        "contact": "0776464646"
     },
     {
         "title": "Superior Auto Repair",
         "description": "Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.",
         "review_rating": 4.3,
         "latitude": 35.9145,
-        "longitude": 0.0622
+        "longitude": 0.0622,
+        "price_per_kilometre": 0.1,
+        "contact": "0776464646"
     },
     {
         "title": "Precision Auto Care",
         "description": "Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
         "review_rating": 4.7,
         "latitude": 35.9146,
-        "longitude": 0.0623
+        "longitude": 0.0623,
+        "price_per_kilometre": 0.1,
+        "contact": "0776464646"
     },
     {
         "title": "Mile High Auto Service",
         "description": "Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt.",
         "review_rating": 4.6,
         "latitude": 35.9147,
-        "longitude": 0.0624
+        "longitude": 0.0624,
+        "price_per_kilometre": 0.1,
+        "contact": "0776464646"
     },
     {
         "title": "Eagle Eye Auto Repair",
         "description": "Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit.",
         "review_rating": 4.2,
         "latitude": 35.9148,
-        "longitude": 0.0625
+        "longitude": 0.0625,
+        "price_per_kilometre": 0.1,
+        "contact": "0776464646"
     },
     {
         "title": "Fast Lane Auto Center",
         "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
         "review_rating": 4.4,
         "latitude": 35.9149,
-        "longitude": 0.0626
+        "longitude": 0.0626,
+        "price_per_kilometre": 0.1,
+        "contact": "0776464646"
     },
     {
         "title": "Sunrise Auto Repair",
         "description": "Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur?",
         "review_rating": 4.8,
         "latitude": 35.9150,
-        "longitude": 0.0627
+        "longitude": 0.0627,
+        "price_per_kilometre": 0.1,
+        "contact": "0776464646"
     },
     {
         "title": "Premium Auto Service",
         "description": "Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.",
         "review_rating": 4.3,
         "latitude": 35.9151,
-        "longitude": 0.0628
+        "longitude": 0.0628,
+        "price_per_kilometre": 0.1,
+        "contact": "0776464646"
     },
     {
         "title": "Master Mechanics",
         "description": "Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
         "review_rating": 4.7,
         "latitude": 35.9152,
-        "longitude": 0.0629
+        "longitude": 0.0629,
+        "price_per_kilometre": 0.1,
+        "contact": "0776464646"
     },
     {
         "title": "Elite Auto Repair",
         "description": "Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt.",
         "review_rating": 4.6,
         "latitude": 35.9153,
-        "longitude": 0.0630
+        "longitude": 0.0630,
+        "price_per_kilometre": 0.1,
+        "contact": "0776464646"
     },
     {
         "title": "Road Runner Auto Shop",
         "description": "Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit.",
         "review_rating": 4.2,
         "latitude": 35.9154,
-        "longitude": 0.0631
+        "longitude": 0.0631,
+        "price_per_kilometre": 0.1,
+        "contact": "0776464646"
     },
     {
         "title": "Golden Wrench Auto Center",
         "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
         "review_rating": 4.4,
         "latitude": 35.9155,
-        "longitude": 0.0632
+        "longitude": 0.0632,
+        "price_per_kilometre": 0.1,
+        "contact": "0776464646"
     },
     {
         "title": "Precision Auto Shop",
         "description": "Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur?",
         "review_rating": 4.8,
         "latitude": 35.9156,
-        "longitude": 0.0633
+        "longitude": 0.0633,
+        "price_per_kilometre": 0.1,
+        "contact": "0776464646"
     },
     {
         "title": "Mile High Auto Center",
         "description": "Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.",
         "review_rating": 4.3,
         "latitude": 35.9157,
-        "longitude": 0.0634
+        "longitude": 0.0634,
+        "price_per_kilometre": 0.1,
+        "contact": "0776464646"
     },
     {
         "title": "Eagle Eye Auto Shop",
         "description": "Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
         "review_rating": 4.7,
         "latitude": 35.9158,
-        "longitude": 0.0635
+        "longitude": 0.0635,
+        "price_per_kilometre": 0.1,
+        "contact": "0776464646"
     },
     {
         "title": "Fast Lane Auto Center",
         "description": "Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt.",
         "review_rating": 4.6,
         "latitude": 35.9159,
-        "longitude": 0.0636
+        "longitude": 0.0636,
+        "price_per_kilometre": 0.1,
+        "contact": "0776464646"
     },
     {
         "title": "Sunrise Auto Shop",
         "description": "Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit.",
         "review_rating": 4.2,
         "latitude": 35.9160,
-        "longitude": 0.0637
+        "longitude": 0.0637,
+        "price_per_kilometre": 0.1,
+        "contact": "0776464646"
     },
     {
         "title": "Premium Auto Center",
         "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
         "review_rating": 4.4,
         "latitude": 35.9161,
-        "longitude": 0.0638
+        "longitude": 0.0638,
+        "price_per_kilometre": 0.1,
+        "contact": "0776464646"
     },
     {
         "title": "Master Mechanics",
         "description": "Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur?",
         "review_rating": 4.8,
         "latitude": 35.9162,
-        "longitude": 0.0639
+        "longitude": 0.0639,
+        "price_per_kilometre": 0.1,
+        "contact": "0776464646"
     },
     {
         "title": "Elite Auto Center",
         "description": "Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.",
         "review_rating": 4.3,
         "latitude": 35.9163,
-        "longitude": 0.0640
+        "longitude": 0.0640,
+        "price_per_kilometre": 0.1,
+        "contact": "0776464646"
     }
 ]

@@ -20,7 +20,7 @@ def calculate_distance(coord1, coord2):
     distance = R * c
     return distance
 
-def recommend_services(user_location, services_data, max_distance=10.0, min_rating=0.0, num_recommendations=5):
+def recommend_services(user_location, services_data, max_distance=10.0, min_rating=0.0, prix_per_kelo_max=float('inf'), num_recommendations=10):
     # Calculate distance for each service and sort by distance
     for service in services_data:
         if 'title' not in service:
@@ -34,24 +34,30 @@ def recommend_services(user_location, services_data, max_distance=10.0, min_rati
         service['latitude'] = latitude
         service['longitude'] = longitude
         service['review_rating'] = review_rating
+        service['price_per_kilometre'] = 0.1  # Adding price_per_kilometre field
+        service['contact'] = "0776464646"  # Adding contact field
     
     sorted_services = sorted(services_data, key=lambda x: x.get('distance', float('inf')))
 
-    # Filter services by rating and distance
-    filtered_services = [service for service in sorted_services if service.get('review_rating', 0.0) >= min_rating and service.get('distance', float('inf')) <= max_distance]
+    # Filter services by rating, distance, and price_per_kilometre
+    filtered_services = [service for service in sorted_services 
+                         if service.get('review_rating', 0.0) >= min_rating 
+                         and service.get('distance', float('inf')) <= max_distance
+                         and service.get('price_per_kilometre', float('inf')) <= prix_per_kelo_max]
     
-    # Recommend the top services based on distance and rating
+    # Recommend the top services based on distance, rating, and price_per_kilometre
     recommended_services = filtered_services[:num_recommendations]
 
     return recommended_services
 
 @app.route('/recommend-services', methods=['GET'])
 def get_recommendations():
-    # Get latitude, longitude, and max distance from request JSON
+    # Get latitude, longitude, max distance, and max price per kilometer from request JSON
     request_data = request.get_json()
     latitude = request_data.get('latitude')
     longitude = request_data.get('longitude')
     max_distance = request_data.get('max_distance', 10.0)  # Default max distance is 10.0 km
+    prix_per_kelo_max = request_data.get('prix_per_kelo_max', float('inf'))  # Default max price per kilometer is infinity
 
     if latitude is None or longitude is None:
         return jsonify({'error': 'Latitude and longitude are required.'}), 400
@@ -63,7 +69,9 @@ def get_recommendations():
         services_data = json.load(json_file)
 
     # Get recommended services
-    recommended_services = recommend_services(user_location, services_data, max_distance=float(max_distance))
+    recommended_services = recommend_services(user_location, services_data, 
+                                              max_distance=float(max_distance), 
+                                              prix_per_kelo_max=float(prix_per_kelo_max))
 
     return jsonify(recommended_services)
 
