@@ -59,7 +59,7 @@ def get_recommendations():
     user_location = (float(latitude), float(longitude))
 
     # Read data from JSON file
-    with open('./1doc_in_mosta.json', 'r', encoding='utf-8') as json_file:
+    with open('./auto_services_data.json', 'r', encoding='utf-8') as json_file:
         services_data = json.load(json_file)
 
     # Get recommended services
