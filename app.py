@@ -50,7 +50,7 @@ def recommend_services(user_location, services_data, max_distance=10.0, min_rati
 
     return recommended_services
 
-@app.route('/recommend-services', methods=['GET'])
+@app.route('/recommend-services', methods=['POST'])
 def get_recommendations():
     # Get latitude, longitude, max distance, and max price per kilometer from request JSON
     request_data = request.get_json()
