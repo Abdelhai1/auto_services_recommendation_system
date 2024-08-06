@@ -1,7 +1,7 @@
 from flask import Flask, request, jsonify
 import json
 from math import radians, sin, cos, sqrt, atan2
-   
+  
 app = Flask(__name__)
 
 def calculate_distance(coord1, coord2):
